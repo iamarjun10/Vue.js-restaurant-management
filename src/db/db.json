@@ -1,0 +1,72 @@
+{
+  "user": [
+    {
+      "name": "Arjun Naik",
+      "email": "arjun@test.com",
+      "password": "arjun@123",
+      "id": 1
+    },
+    {
+      "name": "Sahil Naik",
+      "email": "sahil@test.com",
+      "password": "sahil@123",
+      "id": 2
+    },
+    {
+      "name": "Subham Mishra",
+      "email": "subham@test.com",
+      "password": "subham@123",
+      "id": 3
+    },
+    {
+      "name": "Saidatta Sawant",
+      "email": "saidatta@test.com",
+      "password": "saidatta@123",
+      "id": 4
+    },
+    {
+      "name": "Khushboo Shetkar",
+      "email": "khushboo@test.com",
+      "password": "khushboo@123",
+      "id": 5
+    },
+    {
+      "name": "Natasha Anvekar",
+      "email": "natasha@test.com",
+      "password": "natasha@123",
+      "id": 6
+    },
+    {
+      "name": "Harish Gad",
+      "email": "harish@test.com",
+      "password": "harish@123",
+      "id": 7
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "KFC",
+      "address": "Patto Plaza, Panjim Goa",
+      "contact": "2210145",
+      "id": 1
+    },
+    {
+      "name": "Burger King",
+      "address": "Mall de Goa, Porvorim",
+      "contact": "2210107",
+      "id": 2
+    },
+    {
+      "name": "Domino's",
+      "address": "Campal, Panjim Goa",
+      "contact": "92421450145",
+      "id": 3
+    },
+    {
+      "name": "Pizza Hut",
+      "address": "Ocoquerro, Porvorim",
+      "contact": "8945153123",
+      "id": 4
+    }
+  ]
+}
